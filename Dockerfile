@@ -7,4 +7,4 @@ ENV KEYCLOAK_ADMIN=admin \
 # Start Keycloak
 CMD ["start-dev"]
 
-expose 8080
+EXPOSE 8080
